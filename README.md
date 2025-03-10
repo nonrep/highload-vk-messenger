@@ -150,4 +150,4 @@ VK не публиковало информацию о количестве от
 
 [^7]: [Ежегодный отчет Cisco по Интернету (2018–2023 гг.)](https://www.cisco.com/c/en/us/solutions/collateral/executive-perspectives/annual-internet-report/white-paper-c11-741490.html)
 
-[^8] : [Статистика Whatsapp](https://www.coolest-gadgets.com/whatsapp-statistics/)
+[^8]: [Статистика Whatsapp](https://www.coolest-gadgets.com/whatsapp-statistics/)
