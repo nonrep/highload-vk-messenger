@@ -401,7 +401,7 @@ VK использует видеокодек AV1 [^9], он сжимает в с
 | user | на поля username, phone_number, email |
 | chat | на поле chat_link_name |
 | contact | на поле user_id |
-| chat_user | на поля chat_id и user_id |
+| chat_user | на поле user_id |
 
 #### Денормализация
 
