@@ -556,6 +556,10 @@ File service - сервис, который отвечает за действи
 - Сетевое оборудование: $15,000/мес
 - Итого: $209,800/мес
 
+#### Презентация
+
+https://docs.google.com/presentation/d/1E0BLk0VIUXsDoUWz5wNQcqryiAmfYA9VfgI9W-KGQLc/edit?slide=id.p#slide=id.p
+
 <a name="sources"></a>
 ## Источники
 [^1]: [Пресс-релиз по результатам за 2 кв. и 1 пол. 2024](https://vk.company/ru/press/releases/11805/)
